@@ -1,0 +1,41 @@
+
+:root {
+    --colorPrimaryCarolinaBlueDef: #129ae7;    
+    --colorPrimaryDarkCornflowerBlueDefault: #15418f;    
+    --colorTextDarkest: #232323;    
+    --colorTextDark: #52616b;    
+    --colorGrayBlackCoral: #52616b;    
+    --colorGrayGullGray: #9badba;    
+    --colorGrayMedium: #c9d6df;    
+    --colorGrayLight: #f0f5f9;    
+    --colorGrayExtraLight: #f9f9f9;    
+    --colorGrayWhite: #ffffff;    
+    --colorSelectBlue: #58c2f1;    
+    --colorSelectRed: #ff8576;    
+    --colorSelectGreen: #47c2b1;    
+    --colorWebinarKsuPurple: #422094;    
+    --colorWebinarMinionYellow: #fbe474;    
+    --colorWebinarAnakiwa: #83d7ff;    
+    --colorWebinarTurquoiseBlue: #88f5e8;    
+    --colorPrimaryCarolinaBlueLight: #3ca9e9;    
+    --colorPrimaryCarolinaBlueLighter: #67bbec;    
+    --colorPrimaryCarolinaBlueDark: #068bdb;    
+    --colorPrimaryCarolinaBlueDarker: #035f96;    
+    --colorPrimaryDarkCornflowerBlueLight: #1356c2;    
+    --colorPrimaryDarkCornflowerBlueLighter: #1f67d2;    
+    --colorPrimaryDarkCornflowerBlueDark: #163369;    
+    --colorPrimaryDarkCornflowerBlueDarker: #0b214c;    
+    --colorTextWhite: #ffffff;    
+    --colorWebinarOrient: #015188;    
+    --colorWarmFloralWhite: #f3efe5;    
+    --colorWarmBabyPowder: #fcfaf6;    
+    --colorWarmEggshell: #eee7d7;    
+    --colorWarmBone: #e0d7bf;    
+    --colorWarmKhakiWeb: #c6bda7;    
+    --colorCtaCtaGreen: #15cf74;    
+    --colorCtaMikadoYello: #ffc619;    
+    --colorCtaLight: #ffd146;    
+    --colorCtaLighter: #ffdb70;    
+    --colorCtaDark: #d39e00;    
+    --colorCtaDarker: #a67d00;    
+}

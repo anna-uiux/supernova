@@ -1,0 +1,880 @@
+.typographyHeadingDesktopH1 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 52px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingDesktopH2 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 34px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingDesktopH3 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingDesktopH4 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingDesktopH5 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingDesktopH1Rtl 
+ {
+  
+  font-family: "Noto Kufi Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 52px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingDesktopH2Rtl 
+ {
+  
+  font-family: "Noto Kufi Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingDesktopH3Rtl 
+ {
+  
+  font-family: "Noto Kufi Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingDesktopH4Rtl 
+ {
+  
+  font-family: "Noto Kufi Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingDesktopH5Rtl 
+ {
+  
+  font-family: "Noto Kufi Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingMobileH1 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingMobileH1Rtl 
+ {
+  
+  font-family: "Noto Kufi Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingMobileH2 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingMobileH2Rtl 
+ {
+  
+  font-family: "Noto Kufi Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingMobileH3 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingMobileH3Rtl 
+ {
+  
+  font-family: "Noto Kufi Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingMobileH4 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingMobileH4Rtl 
+ {
+  
+  font-family: "Noto Kufi Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingMobileH5 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingMobileH5Rtl 
+ {
+  
+  font-family: "Noto Kufi Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBody1Xl 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 155%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBody1XlBold 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 125%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBody2L 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBody2LBold 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBody2LItalic 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: italic;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBody2LRtl 
+ {
+  
+  font-family: "Noto Sans Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBody2LBoldRtl 
+ {
+  
+  font-family: "Noto Sans Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBody3M 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 29px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBody3MBold 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 29px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBody3MRtl 
+ {
+  
+  font-family: "Noto Sans Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBody3MRtlBold 
+ {
+  
+  font-family: "Noto Sans Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBody4S 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 1px;
+  
+}    
+
+.typographyBody4SBold 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing:  
+  0em;
+  text-indent: 1px;
+  
+}    
+
+.typographyBody4SRtl 
+ {
+  
+  font-family: "Noto Sans Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 1px;
+  
+}    
+
+.typographyBody4SRtlBold 
+ {
+  
+  font-family: "Noto Sans Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  letter-spacing:  
+  0em;
+  text-indent: 1px;
+  
+}    
+
+.typographyBody5Xs 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 1px;
+  
+}    
+
+.typographyBody5XsBold 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 1px;
+  
+}    
+
+.typographyBody5XsRtl 
+ {
+  
+  font-family: "Noto Sans Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 1px;
+  
+}    
+
+.typographyBody5XsRtlBold 
+ {
+  
+  font-family: "Noto Sans Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 1px;
+  
+}    
+
+.typographyBodyLinkL 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 125%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBodyLinkLRtl 
+ {
+  
+  font-family: "Noto Sans Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 125%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBodyLinkLUnderlined 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 125%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBodyLinkLRtlUnderlined 
+ {
+  
+  font-family: "Noto Sans Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 125%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBodyLinkM 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBodyLinkMRtl 
+ {
+  
+  font-family: "Noto Sans Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 125%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBodyLinkMUnderlined 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBodyLinkMRtlUnderlined 
+ {
+  
+  font-family: "Noto Sans Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBodyLinkSUnderlined 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  letter-spacing:  
+  0em;
+  text-indent: 1px;
+  
+}    
+
+.typographyBodyLinkSRtlUnderlined 
+ {
+  
+  font-family: "Noto Sans Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  letter-spacing:  
+  0em;
+  text-indent: 1px;
+  
+}    
+
+.typographyBodyLinkXsUnderlined 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 140%;
+  letter-spacing:  
+  0em;
+  text-indent: 1px;
+  
+}    
+
+.typographyBodyLinkXsRtlUnderlined 
+ {
+  
+  font-family: "Noto Sans Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 140%;
+  letter-spacing:  
+  0em;
+  text-indent: 1px;
+  
+}    
+
+.typographyBodyLinkMenu 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyLabel 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  letter-spacing:  
+  0.08em;
+  text-indent: 0px;
+  
+}    
+
+.typographyCategory 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  letter-spacing:  
+  0.04em;
+  text-indent: 0px;
+  
+}    
+
+.typographyCategoryUnderlined 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  letter-spacing:  
+  0.04em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDsMainTitle 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 54px;
+  letter-spacing:  
+  0.4em;
+  text-indent: 0px;
+  
+}    
+
+.typographyCategoryUnderlinedRtl 
+ {
+  
+  font-family: "Noto Sans Arabic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  letter-spacing:  
+  0.04em;
+  text-indent: 0px;
+  
+}    
+
+.typographyListItemProsCons 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 100%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyListItemL 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyListItemLBold 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyListItemS 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 1px;
+  
+}    
+
+.typographyButtonL 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 155%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyButtonLUnderlined 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 155%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyButtonS 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyButtonSUnderlined 
+ {
+  
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 145%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
