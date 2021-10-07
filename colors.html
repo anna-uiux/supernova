@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html>
+  
+    <head>
+      <title>Design System Name / Colors</title>
+      <link rel="preconnect" href="https://fonts.gstatic.com" />
+      <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap"
+        rel="stylesheet"
+      />
+      <style>
+      /*
+      *
+      *  GENERAL PAGE CONFIGURATION
+      *
+      */
+      
+      body { padding: 0; margin: 0; font-family: "Poppins", sans-serif; }
+      h1 { color: #000000; font-size: 32px; font-weight: bold; }
+      h2 { color: #363a3e; font-size: 12px; font-weight: 600; }
+      h2 span.light { color: #b7b7b7; }
+      
+      .content { margin: 40px; }
+      
+      /*
+      *
+      *  TOKEN CONTAINERS
+      *
+      */
+      .token-container { margin-top: 40px; }
+      .token-preview-container { width: 36px; height: 36px; border-radius: 4px; border: 1px solid #eaeaea; display: flex; align-items: center; align-content: center }
+      .token-preview-container-border { width: 20px; height: 20px; margin: auto; border-radius: 4px; }
+      
+      /*
+      *
+      *  TOKEN TABLES
+      *
+      */
+      table { width: 100%; font-size: 12px; color: #363a3e; border-collapse: collapse }
+      table tr { border-bottom: 1px solid #f2f4f5; height: 45px }
+      
+      /* Color table - default */
+      table tr td:nth-child(1) { width: 40px; }
+      table tr td:nth-child(2) { width: 20%; padding-left: 12px; font-weight: 600; }
+      
+      table tr.color td:nth-child(3) { width: 100px; }
+      table tr.color td:nth-child(4) { width: 100px; }
+      table tr.color td:nth-child(5) { width: auto; }
+      
+      /* Border table */
+      table tr.border td:nth-child(3) { width: 160px; }
+      table tr.border td:nth-child(4) { width: auto; }
+      
+      /* Gradient table */
+      table tr.gradient td:nth-child(3) { width: 400px; }
+      table tr.gradient td:nth-child(4) { width: auto; }
+      
+      /*
+      *
+      *  TOP MENU
+      *
+      */
+      .top-menu { border-bottom: 1px solid #cde0e4 }
+      
+      ul { list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: white }
+      li { float: left }
+      li a { display: block; font-size: 12px; font-weight: 600; color: #868f98; text-align: center; padding: 16px; text-decoration: none }
+      li .selected { color: #363a3e }
+      li a:hover { color: #363a3e }
+          </style>    
+    </head>    
+  <body>
+    <div class="wrapper">
+      
+        <!-- Top menu-->
+        <div class="top-menu">
+          <ul>
+            <li><a href="colors.html" class="selected">Colors</a></li>
+            <li><a href="borders.html">Borders</a></li>
+            <li><a href="gradients.html">Gradients</a></li>
+          </ul>
+        </div>
+      
+            <div class="content">
+        <h1>Color Tokens</h1>
+        <div class="token-container">
+          <h2>Color</h2>
+        
+          <table class="token-wrapper">
+          </table>
+        </div>
+        <div class="token-container">
+          <h2>Primary</h2>
+        
+          <table class="token-wrapper">
+          </table>
+        </div>
+        <div class="token-container">
+          <h2><span class="light">Primary / </span>Carolina Blue</h2>
+        
+          <table class="token-wrapper">
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #129ae7ff;"></div></td>
+              <td>Def</td>
+              <td>#129AE7FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #3ca9e9ff;"></div></td>
+              <td>Light</td>
+              <td>#3CA9E9FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #67bbecff;"></div></td>
+              <td>Lighter</td>
+              <td>#67BBECFF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #068bdbff;"></div></td>
+              <td>Dark</td>
+              <td>#068BDBFF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #035f96ff;"></div></td>
+              <td>Darker</td>
+              <td>#035F96FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+          </table>
+        </div>
+        <div class="token-container">
+          <h2><span class="light">Primary / </span>Dark Cornflower Blue</h2>
+        
+          <table class="token-wrapper">
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #15418fff;"></div></td>
+              <td>Default</td>
+              <td>#15418FFF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #1356c2ff;"></div></td>
+              <td>Light</td>
+              <td>#1356C2FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #1f67d2ff;"></div></td>
+              <td>Lighter</td>
+              <td>#1F67D2FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #163369ff;"></div></td>
+              <td>Dark</td>
+              <td>#163369FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #0b214cff;"></div></td>
+              <td>Darker</td>
+              <td>#0B214CFF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+          </table>
+        </div>
+        <div class="token-container">
+          <h2>Text</h2>
+        
+          <table class="token-wrapper">
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #232323ff;"></div></td>
+              <td>Darkest</td>
+              <td>#232323FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #52616bff;"></div></td>
+              <td>Dark</td>
+              <td>#52616BFF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #ffffffff;"></div></td>
+              <td>White</td>
+              <td>#FFFFFFFF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+          </table>
+        </div>
+        <div class="token-container">
+          <h2>Gray</h2>
+        
+          <table class="token-wrapper">
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #52616bff;"></div></td>
+              <td>Black Coral</td>
+              <td>#52616BFF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #9badbaff;"></div></td>
+              <td>Gull Gray</td>
+              <td>#9BADBAFF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #c9d6dfff;"></div></td>
+              <td>Medium</td>
+              <td>#C9D6DFFF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #f0f5f9ff;"></div></td>
+              <td>Light</td>
+              <td>#F0F5F9FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #f9f9f9ff;"></div></td>
+              <td>Extra Light</td>
+              <td>#F9F9F9FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #ffffffff;"></div></td>
+              <td>White</td>
+              <td>#FFFFFFFF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+          </table>
+        </div>
+        <div class="token-container">
+          <h2>Select</h2>
+        
+          <table class="token-wrapper">
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #58c2f1ff;"></div></td>
+              <td>Blue</td>
+              <td>#58C2F1FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #ff8576ff;"></div></td>
+              <td>Red</td>
+              <td>#FF8576FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #47c2b1ff;"></div></td>
+              <td>Green</td>
+              <td>#47C2B1FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+          </table>
+        </div>
+        <div class="token-container">
+          <h2>Webinar</h2>
+        
+          <table class="token-wrapper">
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #422094ff;"></div></td>
+              <td>KSU Purple</td>
+              <td>#422094FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #fbe474ff;"></div></td>
+              <td>Minion Yellow</td>
+              <td>#FBE474FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #83d7ffff;"></div></td>
+              <td>Anakiwa</td>
+              <td>#83D7FFFF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #88f5e8ff;"></div></td>
+              <td>Turquoise Blue</td>
+              <td>#88F5E8FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #015188ff;"></div></td>
+              <td>Orient</td>
+              <td>#015188FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+          </table>
+        </div>
+        <div class="token-container">
+          <h2>Warm</h2>
+        
+          <table class="token-wrapper">
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #f3efe5ff;"></div></td>
+              <td>Floral White</td>
+              <td>#F3EFE5FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #fcfaf6ff;"></div></td>
+              <td>Baby Powder</td>
+              <td>#FCFAF6FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #eee7d7ff;"></div></td>
+              <td>Eggshell</td>
+              <td>#EEE7D7FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #e0d7bfff;"></div></td>
+              <td>Bone</td>
+              <td>#E0D7BFFF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #c6bda7ff;"></div></td>
+              <td>Khaki Web</td>
+              <td>#C6BDA7FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+          </table>
+        </div>
+        <div class="token-container">
+          <h2>CTA</h2>
+        
+          <table class="token-wrapper">
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #15cf74ff;"></div></td>
+              <td>CTA Green</td>
+              <td>#15CF74FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #ffc619ff;"></div></td>
+              <td>Mikado Yello</td>
+              <td>#FFC619FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #ffd146ff;"></div></td>
+              <td>Light</td>
+              <td>#FFD146FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #ffdb70ff;"></div></td>
+              <td>Lighter</td>
+              <td>#FFDB70FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #d39e00ff;"></div></td>
+              <td>Dark</td>
+              <td>#D39E00FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+            <tr class="color">
+              <td><div class="token-preview-container" style="background-color: #a67d00ff;"></div></td>
+              <td>Darker</td>
+              <td>#A67D00FF</td>
+              <td>100%</td>
+              <td>No description</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
