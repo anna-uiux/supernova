@@ -1,0 +1,9 @@
+
+:root {
+    --shadowShaddow100: 0px 0px  2px   0px    #00000014;    
+    --shadowShaddow200: 0px 4px  8px   0px    #00000014;    
+    --shadowShaddow300: 0px 0px  16px   0px    #0000003d;    
+    --shadowShaddow400: 0px 8px  16px   0px    #0000003d;    
+    --shadowShaddowCta: 0px 4px  8px   0px    #00000014;    
+    --shadowShaddowCardHover: 0px 4px  8px   0px    #0000003d;    
+}
